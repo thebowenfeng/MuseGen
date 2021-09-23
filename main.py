@@ -1,7 +1,8 @@
 from read_midi import Preprocess
-from network import Bidirectional_Model
+from network import Bidirectional_Model, RNN_Model
 
 processed = Preprocess("alla-turca.mid")
 mymodel = Bidirectional_Model(processed)
-mymodel.train(70)
-mymodel.generate(200, [1, 2, 3], "new.mid", 1000000)
+mymodel.train(epoch=70)
+mymodel.generate(num_notes=200, prompt=[1, 2, 3], output_file="new.mid", tempo=1000000)
+# Tempo is a crochet (quarter note)'s length in microseconds.

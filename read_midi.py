@@ -43,6 +43,3 @@ class Preprocess:
                 curr_id += 1
 
             self.id_sequence.append(self.find_from_id(hash_str))
-
-
-#prep = Preprocess("moonlight1.mid")
