@@ -3,6 +3,12 @@
 This project aims to train deep neural networks to generate music,
 taking inspiration from techniques used in text generation.
 
+## Demo
+
+[A live, interactive website](http://3.138.86.8:8080/) of this project can be found here. Below is a video demo of the website:
+
+[![Video](http://img.youtube.com/vi/-TX8kUK7zos/0.jpg)](http://www.youtube.com/watch?v=-TX8kUK7zos)
+
 ## Usage
 
 #### Requirements
