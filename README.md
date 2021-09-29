@@ -9,6 +9,8 @@ taking inspiration from techniques used in text generation.
 
 [![Video](http://img.youtube.com/vi/-TX8kUK7zos/0.jpg)](http://www.youtube.com/watch?v=-TX8kUK7zos)
 
+[Source code of the website](https://github.com/thebowenfeng/MuseGenWebsite/) can be found here.
+
 ## Usage
 
 #### Requirements
