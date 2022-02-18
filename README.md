@@ -1,5 +1,7 @@
 # MuseGen
 
+(Article on this project)[https://bowenfeng.tech/projects/ai/2021/09/29/musegen.html]
+
 This project aims to train deep neural networks to generate music,
 taking inspiration from techniques used in text generation.
 
